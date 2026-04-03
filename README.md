@@ -8,18 +8,20 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas Gomes Esteves Da Silva
+- Matricula: 927624
+- Proposta de projeto escolhida: 5. Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: Apresentar informações visuais e organizadas sobre diferentes Pokémon, permitindo visualizar nome, imagem, tipo e número. O projeto também conta com um sistema de login, onde o usuário pode criar a sua Pokédex pessoal e salvar as suas criaturas favoritas.
 
-## Print da versão responsiva com CSS puro [DESKTOP]
+## Prints da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print versão Desktop](PrintVersãoDesktop1.png)
+![Print versão Desktop](PrintVersãoDesktop2.png)
+![Print versão Desktop](PrintVersãoDesktop3.png)
 
-## Print da versão responsiva com CSS puro [MOBILE] (*)
+## Prints da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![Print versão Mobile](PrintVersãoMobile1.png)
+![Print versão Mobile](PrintVersãoMobile2.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
